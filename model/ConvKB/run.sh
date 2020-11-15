@@ -1,0 +1,1 @@
+python eval_new.py --embedding_dim 100 --num_filters 50 --name PharmKG --num_splits 8 --decode --eval_type random

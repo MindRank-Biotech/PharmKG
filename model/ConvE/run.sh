@@ -1,0 +1,1 @@
+python conve.py -name PharmKG -data pkg_8k -gpu 2 -eval_type random
